@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Turbulent\Documents\GitHub\OpenGlStuff\glfw-3.3.8\build\CMakeFiles\0665867a42273e6c6976c0e4174d4859\update_mappings.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Turbulent\Documents\GitHub\OpenGlStuff\glfw-3.3.8\glfw-3.3.8\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\Turbulent\Documents\GitHub\OpenGlStuff\glfw-3.3.8\glfw-3.3.8\src\mappings.h.in">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\Users\Turbulent\Documents\GitHub\OpenGlStuff\glfw-3.3.8\glfw-3.3.8\CMake\GenerateMappings.cmake" />
+    <None Include="C:\Users\Turbulent\Documents\GitHub\OpenGlStuff\glfw-3.3.8\build\src\CMakeFiles\update_mappings" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{7533678F-80BE-3C7E-9522-640C30622117}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{EE4E2FEC-21DF-35F6-9DD1-19B17104B7BF}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

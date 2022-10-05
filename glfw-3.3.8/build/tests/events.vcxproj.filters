@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Turbulent\Documents\GitHub\OpenGlStuff\glfw-3.3.8\glfw-3.3.8\tests\events.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Turbulent\Documents\GitHub\OpenGlStuff\glfw-3.3.8\glfw-3.3.8\deps\getopt.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Turbulent\Documents\GitHub\OpenGlStuff\glfw-3.3.8\glfw-3.3.8\deps\glad_gl.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Turbulent\Documents\GitHub\OpenGlStuff\glfw-3.3.8\glfw-3.3.8\deps\getopt.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Turbulent\Documents\GitHub\OpenGlStuff\glfw-3.3.8\glfw-3.3.8\deps\glad\gl.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Turbulent\Documents\GitHub\OpenGlStuff\glfw-3.3.8\glfw-3.3.8\tests\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{EE4E2FEC-21DF-35F6-9DD1-19B17104B7BF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{633CB306-5122-3FBA-AC89-3EBDF635B8E4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
